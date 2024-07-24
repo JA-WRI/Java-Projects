@@ -1,7 +1,6 @@
 //****************************************************************
 //Assignment 1
 //Written by Jaden Wright-Maurais
-//For Comp 248 Section W - Winter 2024
 //****************************************************************
 
 /*This program will generate the mixed fraction form of two inputed fractions and 
